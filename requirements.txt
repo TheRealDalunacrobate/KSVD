@@ -1,0 +1,6 @@
+requests
+nmap
+time
+tqdm
+colorama
+MySQLdb
