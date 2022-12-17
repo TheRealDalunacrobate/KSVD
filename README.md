@@ -1,3 +1,25 @@
+
+                _                       
+                \`*-.                *KSVD Hunt*
+                 )  _`-.                
+                .  : `. .               
+                : _   '  \              
+                ; *` _.   `*-._         
+                `-.-'          `-.      
+                  ;       `       `.    
+                  :.       .        \   
+                  . \  .   :   .-'   .  
+                  '  `+.;  ;  '      :  
+                  :  '  |    ;       ;-.
+                  ; '   : :`-:     _.`* ;
+               .*' /  .*' ; .*`- +'  `*'
+               `*-*   `*-*  `*-*' 
+       __QQ
+      (_)_">
+     _)          
+                    Kitty Scanner Vulnerability Detector. by KazuKo (BETA)
+
+
 KSVD (Kitty Scanner Vulnerability Detector) is an artificial intelligence (AI) tool that helps pentester to identify vulnerabilities in web applications.
 
 One of the key benefits of using an AI-based tool like KSVD is that it can quickly and accurately identify vulnerabilities that might be missed by other scanners or manual reviews.
