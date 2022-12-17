@@ -28,4 +28,4 @@ KSVD is designed to be easy to use, with a simple user interface (web based) tha
 
 Overall, KSVD is a powerful and effective tool for helping organizations improve their cybersecurity posture and identify threats. By using a tool like KSVD, organizations can proactively identify and address vulnerabilities, reducing the risk of a security breach and the associated costs and damages.
 
-it is by the time limited to linux only users but in the futur we will try to make it a windows compatible.
+it is by the time limited to linux users only but in the futur we will try to make it as a windows compatible script.
