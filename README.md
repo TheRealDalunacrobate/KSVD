@@ -27,3 +27,5 @@ One of the key benefits of using an AI-based tool like KSVD is that it can quick
 KSVD is designed to be easy to use, with a simple user interface (web based) that allows users to see their scans. It is also highly configurable, allowing users to modify the source and customize the scan to meet their specific needs and requirements.
 
 Overall, KSVD is a powerful and effective tool for helping organizations improve their cybersecurity posture and identify threats. By using a tool like KSVD, organizations can proactively identify and address vulnerabilities, reducing the risk of a security breach and the associated costs and damages.
+
+it is by the time limited to linux only users but in the futur we will try to make it a windows compatible.
