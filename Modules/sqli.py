@@ -50,4 +50,4 @@ def sqli():
             print(f'payload used : {target_url}+{payload}')
             print('---------------------------------------------------')
         else:
-            print(f'This payload dont work : {payload}')
+            print(Fore.RED+f'This payload dont work : {payload}')
