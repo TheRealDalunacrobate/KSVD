@@ -7,6 +7,8 @@ import colorama
 from colorama import *
 import sys
 sys.path.append('Modules')
+import sqli
+from sqli import *
 import kittyscan
 from kittyscan import *
 import xssi
@@ -42,11 +44,13 @@ def menu():
 
     print(Fore.WHITE+'------------------------------------------------------------------------------')
     print(Fore.WHITE+'''
-    (1)--SQLI Bypass login page--      (4)-- NMAP NSE Vuln Scan (CAN TAKE TIME) --
+    (1)--SQLI Bypass login page--                    (4)-- NMAP NSE Vuln Scan (CAN TAKE TIME) --
+
+    (2)--SQL Injection (CAN TAKE TIME)--             (5)--IpInfo--
+
+    (3)--XSS injector--                                     
     
-    (2)--XSS injector--
-    
-    (3)--IpInfo--               ~Made By KazuKo NetRunner'''+Fore.WHITE)
+                   ~Made By KazuKo NetRunner'''+Fore.WHITE)
     print('\r')
     print(Fore.WHITE+'------------------------------------------------------------------------------')
     print('\r')
@@ -58,15 +62,19 @@ def menu():
             input('enter to main menu ...')
             menu()
         elif choice == "2":
-            xssi()
+            sqli()
             input('enter to main menu ...')
             menu()
         elif choice == "3":
-            ip()
+            xssi()
             input('enter to main menu')
             menu()
         elif choice == "4":
             kittyscan()
+            input('enter to main menu')
+            menu()
+        elif choice == "4":
+            ip()
             input('enter to main menu')
             menu()
         else:
