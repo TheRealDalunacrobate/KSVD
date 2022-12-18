@@ -8,7 +8,7 @@ from terminaltables import SingleTable
 from bs4 import BeautifulSoup
 
 def ip():
-	ip=input('type ip here : ')
+	ip=input('[-] ~ Enter a mice homename :  ')
 	api_ip_connect = f"http://ip-api.com/json/{ip}"
 	content = requests.get(api_ip_connect)
 	data = content.json()
