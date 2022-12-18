@@ -44,12 +44,6 @@ def sqlil():
             "p": payload,
             "username": payload,
             "password": payload,
-            "Username": payload,
-            "Password": payload,
-            "user": payload,
-            "pass": payload,
-            "User": payload,
-            "Pass": payload,
         }
 
         # Envoi de la requête POST
