@@ -50,4 +50,4 @@ def xssi():
             print(f'payload used : {payload}')
             print('---------------------------------------------------')
         else:
-            print(f'This payload dont work : {payload}')
+            print(Fore.RED+f'This payload dont work : {payload}')
