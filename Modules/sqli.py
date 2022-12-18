@@ -27,7 +27,7 @@ print('''
                     Kitty Scanner Vulnerability SQLI Bypass. by KazuKo (BETA)
             ''')
 
-ddef sqli():
+def sqli():
     # URL de la page de connexion
     target_url = input('[-] ~ Enter a mice homename :  ')
     os.system('clear')
