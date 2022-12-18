@@ -73,7 +73,7 @@ def menu():
             kittyscan()
             input('enter to main menu')
             menu()
-        elif choice == "4":
+        elif choice == "5":
             ip()
             input('enter to main menu')
             menu()
